@@ -22,6 +22,23 @@ A lightweight RTL-style verification framework built in Python that simulates di
 - Assertion-based validation
 - Hardware debugging mindset
 
-## How to Run
-```bash
-python rtl_verification.py
+
+  Output
+PASS/FAIL verification results
+Verification logs stored in verification_log.txt
+Author
+
+Siddhartha Yekkirala
+
+
+---
+
+## ⭐ Add GitHub Badges (IMPORTANT FOR IMPACT)
+
+Add at top of README:
+
+
+```markdown id="badges"
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![Status](https://img.shields.io/badge/Project-Completed-green)
+![Domain](https://img.shields.io/badge/RTL-Verification-red)
