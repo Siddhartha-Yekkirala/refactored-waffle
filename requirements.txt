@@ -1,0 +1,35 @@
+Output
+
+All tests pass if logic is correct, otherwise assertion fails.
+
+
+---
+
+# 📦 Step 6: Upload to GitHub (Easy Method)
+
+### Option A (Easiest)
+
+Inside GitHub repo page:
+
+1. Click **Add file**
+2. Click **Upload files**
+3. Drag & drop your folder files:
+   - rtl_verification.py
+   - README.md
+
+4. Click:
+👉 Commit changes
+
+---
+
+# ⚡ Step 7: (PRO LEVEL) Add Git Commands (Optional)
+
+If using terminal:
+
+```bash
+git init
+git add .
+git commit -m "Initial commit - RTL verification simulator"
+git branch -M main
+git remote add origin https://github.com/yourusername/rtl-verification-simulator.git
+git push -u origin main
