@@ -1,22 +1,26 @@
-# RTL Verification Simulator (Python)
+# RTL Verification Framework (Python)
 
 ## Overview
-This project simulates basic RTL (Register Transfer Level) verification concepts using Python. It validates combinational digital logic circuits using automated test cases and assertion-based checking.
+A lightweight RTL-style verification framework built in Python that simulates digital circuit validation using random test vectors, assertion-based checking, and logging mechanisms.
 
 ## Features
-- Truth table based verification
-- Assertion-based validation
-- Digital logic simulation (AND, XOR, etc.)
-- Automated test execution
-
-## Concepts Used
-- RTL verification basics
-- Digital logic design
-- Assertion-based testing
-- Software-hardware validation concepts
+- Assertion-based verification engine
+- Random test vector generator
+- 1-bit adder simulation with carry logic
+- Logging system for test tracking
+- Modular RTL-style verification flow
 
 ## Tech Stack
-Python
+- Python
+- Random module
+- Logging module
+
+## Concepts Demonstrated
+- RTL verification methodology
+- Digital logic design
+- Testbench simulation concepts
+- Assertion-based validation
+- Hardware debugging mindset
 
 ## How to Run
 ```bash
